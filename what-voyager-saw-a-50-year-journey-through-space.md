@@ -2,7 +2,7 @@
 
 **Author:** Jegrami<br>
 **Date:** 2025-03-04<br>
-**Updated:** 2025-02-11
+**Updated:** 2026-02-11
 
 In 1977, NASA launched two robotic explorers into space. We know them as Voyager 1 and Voyager 2. The job of these twin spacecraft was to explore our solar system’s outer planets, taking plenty of pictures along the way and sending them back to Earth. The goal? Unravel the mysteries surrounding the outer planets and our solar system. Those two robots represent the greatest act of exploration humans have ever undertaken. They represent the height of human curiosity, audaciousness, creativity, innovation, and resilience — qualities that make us special.
 
@@ -53,17 +53,17 @@ It’s been nearly half a century now. The Voyager mission is still alive, and t
 
 This was the first thing I wondered. What kind of fuel keeps these spacecraft running? Turns out, it's something called a **radioisotope thermoelectric generator (RTG)**. It works by converting heat from the decay of plutonium-238 (whatever that means) into electricity, which powers the ship. 
 
-At launch, each Voyager generated 157 watts of power &ndash;less than the wattage of a handheld vacuum cleaner. It’s remarkably long-lasting, though. Despite its running for nearly half a century now, scientists believe there might still be enough power to keep the Voyager on, possibly through its 50th birthday in 2027. In other words, 2027 could be the year Voyager finally falls silent. You can pause here and sob. I did.
+At launch, each Voyager generated 157 watts of power &mdash; less than the wattage of a handheld vacuum cleaner. It’s remarkably long-lasting, though. Despite its running for nearly half a century now, scientists believe there might still be enough power to keep the Voyager on, possibly through its 50th birthday in 2027. In other words, 2027 could be the year Voyager finally falls silent. You can pause here and sob. I did.
 
 ### The tech stack
 
-The Voyager was equipped with 11 scientific instruments designed to study planets, magnetic fields, plasma, and cosmic radiation. In addition to these instruments, Voyager had gyroscopes for stabilization, star trackers for navigation, and 16 hydrazine thrusters (with another 8 as backups) used for course correction and orientation. 
+The Voyager was equipped with 11 scientific instruments designed to study planets, magnetic fields, plasma, and cosmic radiation. In addition to these instruments, Voyager had **gyroscopes** for stabilization, **star trackers** for navigation, and 16 **hydrazine thrusters** (with another 8 as backups) used for course correction and orientation. 
 
-Those backup thrusters helped a lot . . . because in 2017, two of Voyager 1’s main thrusters failed. And the backups had to be activated. These backup thrusters, called Trajectory Correction Maneuver (TCM) thrusters, had not been used since Voyager 1’s flyby of Saturn in 1980. They found work after 37 years of idleness. Imagine being on standby for nearly 4 decades. But guess what. When it came time for them to step in, they did. They worked perfectly. What lovely machines!data-block-key. 
+Those backup thrusters helped a lot . . . because in 2017, two of Voyager 1’s main thrusters failed. And the backups had to be activated. These backup thrusters, called **Trajectory Correction Maneuver (TCM)** thrusters, had not been used since Voyager 1’s flyby of Saturn in 1980. They found work after 37 years of idleness. Imagine being on standby for nearly 4 decades. But guess what. When it came time for them to step in, they did. They worked perfectly. What lovely machines! 
 
-The Voyager has some custom-made computers built into it, such as the Computer Command System (CCS) and the Voyager Flight Data System (FDS). It also has wide-angle and narrow-angle lens cameras controlled by a CCS whose goal in life is to run some fault detection and correction routine software. 
+The Voyager has some custom-made computers built into it, such as the **Computer Command System (CCS)** and the **Voyager Flight Data System (FDS)**. It also has wide-angle and narrow-angle lens cameras controlled by a CCS whose goal in life is to run some fault detection and correction routine software. 
 
-Another vital equipment onboard Voyager is the Attitude and Articulation Control Subsystem. Weird name. But the ‘attitude’ just means a system that controls the Voyager’s antenna to ensure that it is always pointing toward Earth. This is important. Without the antenna pointing toward Earth, Voyager cannot send or receive information from NASA’s Deep Space Network (DSN). DSN is a lineup of three giant radio antennas placed in strategic positions around the world to support communication with interplanetary spacecraft. It’s the largest and most sensitive scientific telecommunications system in the world, according to NASA.
+Another vital equipment onboard Voyager is the **Attitude and Articulation Control Subsystem**. Weird name. But the ‘attitude’ just means a system that controls the Voyager’s antenna to ensure that it is always pointing toward Earth. This is important. Without the antenna pointing toward Earth, Voyager cannot send or receive information from NASA’s Deep Space Network (DSN). DSN is a lineup of three giant radio antennas placed in strategic positions around the world to support communication with interplanetary spacecraft. It’s the largest and most sensitive scientific telecommunications system in the world, according to NASA.
 
 About that Voyager antenna. It’s just 3.7 meters wide, roughly the size of a trampoline. Being an old technology, its energy output is really small &mdash; so small that, at such vast distance from Earth, its signal would be undetectable without precise alignment of the antenna. So to maintain communication, it must always face Earth. The antenna’s memory is an 8-track digital tape recorder that can store only 536 megabytes, just enough for about 100 images at a time, before sending the data to Earth. Compared with the memory capacity of modern-day devices, 536 MB is really, really small. But that’s what the Voyager uses for real-time communication with NASA’s DSN.
 
