@@ -100,13 +100,7 @@ When the first images of Jupiter started coming in, scientists discovered and we
 
 As V1 approached Jupiter, it took a series of images over a period of 60 Jupiter days (a day on Jupiter is 10 hours on Earth). These images were spliced together to create the following "Blue movie" of Jupiter (so called because it was built from Blue filter images):
 
-<img
-  src="https://science.nasa.gov/wp-content/uploads/2024/04/pia02855.gif"
-  width="300"
-  height="300"
-  alt="Voyager 1 Jupiter timelapse"
-  loading="lazy"
-/>
+![Blue movie](./images/voyager-images/pia02855.webp)
 *A timelapse image of Jupiter taken by Voyager 1 over a period of 60 Jupiter days*
 
 Notice the Great Red Spot on the surface of the planet? That's Jupiter's most recognizable feature: a swirling, never-ending storm that has been raging for more than 150 years now. It's the biggest storm in the entire solar system, roughly 1.3 times the size of Earth!
