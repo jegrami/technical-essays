@@ -1,7 +1,7 @@
 # What Voyager Saw: A 50-Year Journey Through Space
 
 **Author:** Jegrami<br>
-**Date:** 2025-03-04
+**Date:** 2025-03-04<br>
 **Updated:** 2025-02-11
 
 In 1977, NASA launched two robotic explorers into space. We know them as Voyager 1 and Voyager 2. The job of these twin spacecraft was to explore our solar system’s outer planets, taking plenty of pictures along the way and sending them back to Earth. The goal? Unravel the mysteries surrounding the outer planets and our solar system. Those two robots represent the greatest act of exploration humans have ever undertaken. They represent the height of human curiosity, audaciousness, creativity, innovation, and resilience — qualities that make us special.
@@ -20,7 +20,9 @@ This is a long-ass, non-technical article (written by an ordinary, non-science w
 
 It’s interesting to me that the spacecraft we are talking about here are powered by archaic tech. The machines we have at the cutting edge of space exploration are not shiny, modern devices. No. There are old computers, some with memory capacity smaller than that of a modern-day calculator, using 8-track magnetic tapes from the 1970s!
 
-![8-track-digital-tape-recorder](./images/voyager-images/dtr-ls.jpg)
+![8-track-digital-tape-recorder](./images/voyager-images/dtr-ls.jpg)<br>
+*The 8-track digital tape recorder aboard the Voyager*
+
 
 The Voyager was originally designed for a 5-year mission to Jupiter, Saturn, Uranus, and Neptune ... and some of their biggest moons. Their goal was to explore, take pictures, and find out what was going on around there. But when the twin spacecraft completed their flyby of those planets around 1989, merely 12 years after their takeoff from Earth, NASA scientists decided to extend their mission to go beyond our solar system and into interstellar space. 
 
@@ -86,21 +88,21 @@ So although V2 went up two weeks before V1, by December 15 of the same year, V1 
 
 Just 13 days after launch, V1 sent back its first photo of the Earth and its moon, from 11 million km away. This would be the first of tens of thousands of photos it would capture throughout its journey.
 
-![Photo of Earth and its moon, captured by V1 from 11 million km away](./images/voyager-images/1st-image-earth-and-moon.webp)
+![Photo of Earth and its moon, captured by V1 from 11 million km away](./images/voyager-images/1st-image-earth-and-moon.webp)<br>
 *Photo of Earth and its moon, captured by Voyager 1 from 11 million km away*
 
 #### 2 Years: Voyager approaches Jupiter
 
 After two years, Voyager arrives the giant planet Jupiter, its very first mission target, located 714 million km away. V1, traveling at 17 km/s, arrived on March 5, 1979. And V2, moving a bit slower at 15 km/s, arrived four months later, on July 9, 1979.
 
-![Jupiter and two of its moons, Io (left ) and Europa](./images/voyager-images/jupiter-io-europa.jpg)
+![Jupiter and two of its moons, Io (left ) and Europa](./images/voyager-images/jupiter-io-europa.jpg)<br>
 *Jupiter and its moons, Io (left) and Europa*
 
 When the first images of Jupiter started coming in, scientists discovered and were surprised by the sheer turbulence in the atmosphere: supergiant tornadoes, storms, whirlwinds, and plumes strikingly similar to the ones found in many places in space. Scientists discovered that Jupiter is beset with them. V1 proved that Jupiter, like Saturn, also has rings. It took photos of volcanic activity in Io, one of Jupiter's biggest moons. They’re volcanic hotpots and lakes of liquid fire scattered all over the moon’s surface. We now know it's the most geologically active site in all our solar system. Scientists also found out that Jupiter’s Ganymede was the largest moon in our solar system, not Saturn’s Titan. 
 
 As V1 approached Jupiter, it took a series of images over a period of 60 Jupiter days (a day on Jupiter is 10 hours on Earth). These images were spliced together to create the following "Blue movie" of Jupiter (so called because it was built from Blue filter images):
 
-![Blue movie](./images/voyager-images/pia02855.webp)
+![Blue movie](./images/voyager-images/pia02855.webp)<br>
 *A timelapse image of Jupiter taken by Voyager 1 over a period of 60 Jupiter days*
 
 Notice the Great Red Spot on the surface of the planet? That's Jupiter's most recognizable feature: a swirling, never-ending storm that has been raging for more than 150 years now. It's the biggest storm in the entire solar system, roughly 1.3 times the size of Earth!
@@ -123,7 +125,7 @@ Hydrogen and methane gas are the common elements found on Neptune. The latter is
 
 And with Neptune, V2 had reached the final stop of what NASA dubbed The Grand Tour. At this time, V1 was already 6 billion km away from the Sun, heading toward interstellar space. To conserve its energy for the remaining long journey, NASA scientists decided to turn off its camera — forever. But before that, with the advice of the renowned physicist Carl Sagan, V1’s camera was turned toward Earth to take one last picture of home. And so, on the 14th of February 1990 (Valentine's Day!), V1 took this famous pale blue dot image of Earth, about 0.12 pixels in size:</p>
 
-![Earth at 6 billion km from the Sun ](./images/voyager-images/pale-blue-dot.webp)
+![Earth at 6 billion km from the Sun ](./images/voyager-images/pale-blue-dot.webp)<br>
 *Earth at 6 billion km from the Sun appearing as just a point of light about 1 pixel in size*
 
 Carl Sagan best described this picture, in his all-so-poetic way:
@@ -150,7 +152,7 @@ After capturing the famous *Pale Blue Dot* image in February 1990, V1 spent near
 
 Some really big words that need explaining here. The *heliosphere* is the protective bubble of our solar system separating us from the rest of the galaxy. It is created by the Sun’s wind and extends to about 11 billion miles from the Sun, protecting Earth and other planets in our solar system from the harsh radiations of the outside galaxy beyond. The *heliopause*, on the other hand, is the true boundary between our solar system and the outer galaxies, the very edge of the heliosphere. Beyond here is the vast area between stars, called interstellar space.
 
-![V1 & V2 crossing the heliosphere](./images/voyager-images/voyagers-crossing-heliopause.png)
+![V1 & V2 crossing the heliosphere](./images/voyager-images/voyagers-crossing-heliopause.png)<br>
 *Voyager 1 & 2 crossing the heliosphere*
 
 Now, back to our voyagers. 
@@ -165,8 +167,8 @@ For years, V1 and V2 drifted through the heliopause, the boundary region of our 
 
 Scientists aren't sure how much longer these cosmic travelers will last before their power runs out and we lose contact with them forever. But even after their energy fades and their instruments fall silent, the twin spacecraft will continue their journey deeper and deeper into space, probably for billions of years. They will make plenty more fascinating discoveries, even though they won’t be able to tell us about it. And should they encounter alien life, each of the Voyager ships carries a message, called **the Golden Record**, which is a phonographic gold-plated copper disk designed to tell the story of Earth to any distant intelligence that may one day encounter it.
 
-![The Golden Record aboard Voyager](./images/voyager-images/the-golden-record.jpg)
-*the golden record aboard the voyager*
+![The Golden Record aboard Voyager](./images/voyager-images/the-golden-record.jpg)<br>
+*the golden record aboard the Voyager*
 
 Curated for NASA by Carl Sagan and his team, the record holds **115 images** showcasing life on Earth, along with various natural sounds, such as ocean waves, the rustling of wind and rain, the songs of birds and whales. It contains spoken greetings in **55 languages**, messages from the then-U.S. president and the U.N. Secretary-General, and a collection of music spanning continents and centuries, from classical symphonies to folk melodies to rock and roll. It even contains simple, intimate sounds like human footsteps and laughter. The cover of the record carries instructions for how to play the record, written in symbolic language. 
 
