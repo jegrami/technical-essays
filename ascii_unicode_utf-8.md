@@ -43,7 +43,15 @@ Computers were no longer isolated systems; they were now connected across univer
 
 The American Standards Association (now ANSI) published ASCII (the American Standard Code for Information Interchange) in 1963. It was the first serious attempt at a universal encoding standard. 
 
-ASCII is a system of representing text by mapping characters to alphabets 7-bit encoding system that maps characters 
+ASCII is a system of representing text by mapping English letters to specific numbers. For example, the capital letter `A` in ASCII is 67, while the small letter `a` is 97. ASCII encoded characters using 7-bits, which means it had room for 128 unique character codes. This was enough to represent uppercase and lowercase English letters; digits (0-9); punctuation marks; and even some unprintable characters, technically called "control codes", like space (32), line feed (10), delete (127), and bell (7).
+Yep, 7 literally made your computer beep.  
 
+ASCII worked well for English text. And since the de facto standard for the length of a "chunk" in the computer industry is 8-bits, ASCII fit comfortably with one bit to spare. That last bit was sometimes called "the high bit", which was typically set to zero. 
 
-"Space was 32, the letter “A” was 65, etc. This could conveniently be stored in 7 bits. Most computers in those days were using 8-bit bytes, so not only could you store every possible ASCII character, but you had a whole bit to spare, which, if you were wicked, you could use for your own devious purposes: the dim bulbs at WordStar actually turned on the high bit to indicate the last letter in a word, condemning WordStar to English text only. Codes below 32 were called unprintable and were used for cussing. Just kidding. They were used for control characters, like 7 which made your computer beep and 12 which caused the current page of paper to go flying out of the printer and a new one to be fed in."
+But ASCII only handled unaccented English letters. No Cyrillic (Б, Д), no Chinese characters (你, 好), no fancy accents (é, ñ, ü) ... nothing beyond the basic Latin alphabet. An obvious limitation because English is just one language. 
+
+## The era of code pages
+
+People who spoke languages other than English said fuck it and started using the 8th bit to add more characters from their own writing system. That extra bit 
+gave room for 128 additional characters beyond standard ASCII. 
+
