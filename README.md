@@ -1,3 +1,5 @@
 # technical essays
 
-repo for my tech writing and stuff!
+Repo for my tech writing and stuff.
+
+
