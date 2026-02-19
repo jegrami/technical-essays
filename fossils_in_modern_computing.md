@@ -16,7 +16,7 @@ screen (or even a printer) connected to a computer sitting somewhere in a univer
 Multiple terminals and their users could be connected to one central computer with a single CPU. And these users sometimes need to access the computer at the same time. 
 To make this work, the computer is programmed to give each user a tiny slice of CPU time, switching rapidly between users to perform their tasks. This process became known as "timesharing". 
 
-Today, even low-end laptops have mutliple CPU cores, with far more compute than 
+Today, even low-end laptops have multiple CPU cores, with far more compute than 
 those giant IBM mainframes that filled entire rooms. Every user has their own 
 machine, so no need for timesharing anymore. And what is shipped as a "terminal" in 
 modern computers is actually a "terminal emulator", which is a software
